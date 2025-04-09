@@ -8,9 +8,5 @@ class Loop{
                 System.out.println(--j+" ");
             }
         }
- 
-    // int n = 5;
-    // for(int j=5,i=j;j<=n;i++){
-	// System.out.print(i+" ");
     }
 }
