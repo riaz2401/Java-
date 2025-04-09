@@ -1,5 +1,5 @@
 import java.util.Random;
-class Exrandom{
+class RandomNoGenerator{
     public static void main(String[] args){
         Random r = new Random();
         for(int i=1; i<=10; i++){
