@@ -1,5 +1,3 @@
-package com.general;
-
 import java.io.IOException;
 
 public class NotepadOpenInJava {
